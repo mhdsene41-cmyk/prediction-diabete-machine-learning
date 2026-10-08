@@ -66,12 +66,7 @@ prediction-diabete-machine-learning/
 │
 ├── notebooks/
 │   └── analyse_diabete.ipynb
-│
-├── results/
-│
 ├── rapport/
-│
-├── presentation/
 │
 └── README.md
 ```
@@ -95,7 +90,7 @@ Cette section sera complétée avec les métriques, graphiques et matrices de co
 
 ## 📄 Documents
 
-Le rapport détaillé et la présentation du projet seront ajoutés dans les dossiers correspondants.
+Le rapport détaillé  du projet sera ajouté dans les dossiers correspondants.
 
 ## 🎓 Contexte
 
